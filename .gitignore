@@ -1,0 +1,7 @@
+data/
+results/
+.snakemake/
+__pycache__/
+*.fastq
+*.fastq.gz
+.ipynb_checkpoints/

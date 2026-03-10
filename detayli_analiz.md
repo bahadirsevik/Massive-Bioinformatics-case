@@ -58,5 +58,4 @@ Bu veri yapısı, (N50: 1.7K ve Mean Q: 17.9) hiçbir temizleme aşamasına (tri
 
 Saygılarımla.
 
-**[Adınız / Soyadınız]**
-Mühendis Stajyeri
+

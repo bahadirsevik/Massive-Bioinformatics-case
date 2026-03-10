@@ -19,7 +19,7 @@ Pipeline çalışması sonucunda oluşturduğum görselleri ve özet istatistik 
 **Öneri:**
 Veriniz (barcode77), özellikle ulaştığı ~18 kalitesindeki Q-Skoru ve içerisindeki yarım milyon bazı aşan uzun okumalarla birlikte son derece kalitelidir. Hiçbir endişe duymadan bir sonraki aşama olan **Tam Genom Hizalama (Full Alignment)** sürecine rahatlıkla geçebileceğinizi tavsiye ederim.
 
-Sistemin kurulumu veya raporlama hakkında görüşmek isterseniz her zaman müsaitim.
+Detaylı analizler için detayli_analiz dosyasına da göz atabilirsiniz. Sistemin kurulumu veya raporlama hakkında görüşmek isterseniz her zaman müsaitim.
 
 Saygılarımla,
 

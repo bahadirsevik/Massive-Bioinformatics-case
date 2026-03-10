@@ -23,4 +23,4 @@ Sistemin kurulumu veya raporlama hakkında görüşmek isterseniz her zaman müs
 
 Saygılarımla,
 
-[Yazılım Mühendisi Stajyeri / Adınız]  
+[Yazılım Mühendisi Stajyeri /Bahadır ŞEVİK]  
